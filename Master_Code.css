@@ -5509,7 +5509,7 @@ html .upperBadge-2XnnGB.count {
 }
 
 .closedFolderIconWrapper-15K9MK > .guildIcon-GuAC7C{
-  filter: blur(4px);
+  filter: blur(0px);
   /* transition: all 200ms; */
 }
 
